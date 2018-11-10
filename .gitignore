@@ -1,0 +1,13 @@
+*.o
+*.out
+*.sav
+*.swp
+# User-specific stuff
+.idea/
+# Gradle
+.idea/**/gradle.xml
+# CMake
+cmake-build-*/
+# BUILD
+build/
+
