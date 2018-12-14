@@ -1,12 +1,11 @@
-# PROJECT REPORT 
+# AI Checker 
  
 #### Author : Zhekai Jin (Scott)
-#### Course : ECE 469 Artificial Intelligence
-#### Professor : Carl Sable 
 
 ##Description
   A checker program with the option of a pc player or a human player on both ends. The pc player use the iterative deepening & minimax alpha-beta search on the whole legal moves on the board and try to pick the best move against the other player.
-	
+	* ![alt text](docs/pic3.png "Title")
+
 ## Dependency 
 * CMAKE 3.0
 * MAKE
@@ -33,10 +32,10 @@ rm -rf build
 
 ## Structure 
 ### Agent class
-* ![alt text](1.jpg "Title")
+* ![alt text](docs/1.jpg "Title")
 
 ### Checker class
-* ![alt text](2.jpg "Title")
+* ![alt text](docs/2.jpg "Title")
 
 ## Heuristic Ideas Applied 
 
