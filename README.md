@@ -34,10 +34,10 @@ rm -rf build
 
 ## Structure 
 ### Agent class
-* ![alt text](docs/1.jpg "Title")
+![alt text](docs/1.jpg "Title")
 
 ### Checker class
-* ![alt text](docs/2.jpg "Title")
+![alt text](docs/2.jpg "Title")
 
 ## Heuristic Ideas Applied 
 
