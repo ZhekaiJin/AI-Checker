@@ -3,7 +3,7 @@
 #### Author : Zhekai Jin (Scott)
 
 ## Description
-  A checker program with the option of a pc player or a human player on both ends. The pc player use the iterative deepening & minimax alpha-beta search on the whole legal moves on the board and try to pick the best move against the other player.
+  A checker program with the option of a PC player or a human player on both ends. The PC player use the **iterative deepening** & **minimax alpha-beta search** on the whole legal moves on the board and try to pick the best move against the other player.
   
 ## Screenshot  
 ![alt text](docs/pic3.png "Screenshot")
