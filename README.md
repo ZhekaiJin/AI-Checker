@@ -7,7 +7,7 @@
   
 ## Screenshot  
 [![Watch AI Checker in action](docs/pic3.gif)](https://zhekaijin.github.io/videos/checker.mp4)
-*AI checker in acion (click on the image to view the full video)*
+*<br />AI checker in acion (click on the image to view the full video)*
 
 
 
