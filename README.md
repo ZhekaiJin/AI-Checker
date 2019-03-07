@@ -23,7 +23,8 @@ Follow the Prompt
 ```	
 ## Build
 ```
-cd submission/
+git clone https://github.com/ZhekaiJin/AI-Checker.git
+cd AI-Checker/
 mkdir build && cd build
 cmake .. && make 
 ./checker
@@ -31,7 +32,7 @@ cmake .. && make
 
 ## Clear Build
 ```
-cd submission/
+cd AI-Checker/
 rm -rf build
 ```	
 
