@@ -5,7 +5,7 @@
 ## Description
   A checker program with the option of a PC player or a human player on both ends. The PC player use the **iterative deepening** & **minimax alpha-beta search** on the whole legal moves on the board and try to pick the best move against the other player.
   
-## Screenshot  
+## Demo  
 [![Watch AI Checker in action](docs/pic3.gif)](https://zhekaijin.github.io/videos/checker.mp4)
 *<br />AI checker in acion (click on the image to view the full video)*
 
